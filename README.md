@@ -28,8 +28,8 @@ Visual Studio Code (VS Code)
 🔗 API Integrations
 ⚡ Website Performance Optimization
 📫 Get in Touch
-Email: your.email@example.com
-LinkedIn: https://linkedin.com/in/your-profile
+Email: amanuelbirhanu108@gmail.com
+LinkedIn: https://www.linkedin.com/in/amanuel-birhanu-575808424/
 ⭐ Let's Build Something Great
 
 Whether you need a modern website, a scalable web application, or improvements to an existing project, I'm always interested in collaborating and delivering solutions that make an impact.
